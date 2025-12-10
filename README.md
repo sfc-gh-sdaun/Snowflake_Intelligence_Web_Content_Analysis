@@ -1,4 +1,4 @@
-# Snowflake_Intelligence_Web_Content_Analysis
+# Use Snowflake Intelligence for Web Content Analysis
 Test the comprehensive capabilities of Snowflake Intelligence, with a focus on web content analysis
 
 This repository is a shortened version of the following [repository](https://github.com/NickAkincilar/Snowflake_AI_DEMO/blob/main/README.md), by Nick Akincilar. Take a look at the full repository if you are interested to explore more capabilities of Snowflake Intelligence.
